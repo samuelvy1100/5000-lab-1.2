@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome to this Quarto website. The goal is to demonstrate professional formatting using text, lists, images, equations, and diagrams. 1 2\nRoman economic and social structures shaped much of Europe’s development [@garnsey2015roman].\nLater interpretations of decline provide valuable historical lessons [@gibbon2003decline]."
+  },
+  {
+    "objectID": "index.html#subsection-a",
+    "href": "index.html#subsection-a",
+    "title": "Welcome",
+    "section": "Subsection A",
+    "text": "Subsection A\nHere are some important points:\n\nUse Quarto for professional academic websites\n\nIntegrate reproducible documents and notebooks\n\nSupport citations, equations, and diagrams\n\n\n“Knowledge is power, but applied knowledge is transformative.”"
+  },
+  {
+    "objectID": "index.html#subsection-b",
+    "href": "index.html#subsection-b",
+    "title": "Welcome",
+    "section": "Subsection B",
+    "text": "Subsection B\nInline equation example:\nThe quadratic formula is written as \\(x = \\frac{-b \\pm \\sqrt{b^2-4ac}}{2a}\\).\nBlock equation example:\n\\[\nE = mc^2\n\\]"
+  },
+  {
+    "objectID": "index.html#markdown-table",
+    "href": "index.html#markdown-table",
+    "title": "Welcome",
+    "section": "Markdown Table",
+    "text": "Markdown Table\n\n\n\nFeature\nDescription\n\n\n\n\nReproducibility\nEnsures consistent scientific results\n\n\nFlexibility\nSupports multiple output formats\n\n\nExtensibility\nIntegrates code, text, and citations"
+  },
+  {
+    "objectID": "index.html#images",
+    "href": "index.html#images",
+    "title": "Welcome",
+    "section": "Images",
+    "text": "Images\n\nFigure 1: Roman Empire at Greatest Extent.\n\nFigure 2: Invasion Map."
+  },
+  {
+    "objectID": "index.html#video",
+    "href": "index.html#video",
+    "title": "Welcome",
+    "section": "Video",
+    "text": "Video\nHere is a professional video of the Colosseum embedded below:\n\n\nYour browser does not support the video tag."
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Welcome",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis site is a demonstration project created for coursework.↩︎\nChat-GPT 5 was used to refine this code↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#historical-context",
+    "href": "slides/slides.html#historical-context",
+    "title": "Roman Empire Insights",
+    "section": "Historical Context",
+    "text": "Historical Context\nThe Roman Empire provides a foundation for much of European history [@garnsey2015roman].\n\nEconomy shaped trade\nSociety structured governance\nCulture influenced philosophy\n\n\nRoman Map"
+  },
+  {
+    "objectID": "slides/slides.html#legacy",
+    "href": "slides/slides.html#legacy",
+    "title": "Roman Empire Insights",
+    "section": "Legacy",
+    "text": "Legacy\nInterpretations of decline continue to influence modern thought [@gibbon2003decline].\n\nWorkflow"
+  },
+  {
+    "objectID": "slides/slides.html#interpretation",
+    "href": "slides/slides.html#interpretation",
+    "title": "Roman Empire Insights",
+    "section": "Interpretation",
+    "text": "Interpretation\nThe roman empire was a rich state and had great influence over the world."
+  }
+]

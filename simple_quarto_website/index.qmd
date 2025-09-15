@@ -1,0 +1,107 @@
+---
+title: "Welcome"
+format:
+  html:
+    toc: true  
+---
+
+# Introduction
+
+Welcome to this Quarto website. The goal is to demonstrate professional formatting using text, lists, images, equations, and diagrams. [^1] [^2]
+
+Roman economic and social structures shaped much of Europe’s development [@garnsey2015roman].  
+Later interpretations of decline provide valuable historical lessons [@gibbon2003decline].  
+
+[^1]: This site is a demonstration project created for coursework.
+[^2]: Chat-GPT 5 was used to refine this code
+
+---
+
+# Section with Two Columns
+
+::: columns
+::: column
+**Key Highlights**
+
+- Clear structure
+- Academic references
+- Professional formatting
+:::
+
+::: column
+**Details**
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet elit vel ligula accumsan convallis.  
+:::
+:::
+
+---
+
+# Structured Information
+
+## Subsection A
+
+Here are some important points:
+
+- Use Quarto for professional academic websites  
+- Integrate reproducible documents and notebooks  
+- Support citations, equations, and diagrams  
+
+> *"Knowledge is power, but applied knowledge is transformative."*
+
+## Subsection B
+
+Inline equation example:  
+The quadratic formula is written as $x = \frac{-b \pm \sqrt{b^2-4ac}}{2a}$.
+
+Block equation example:
+
+$$
+E = mc^2
+$$
+
+---
+
+# Data Presentation
+
+## Markdown Table
+
+| Feature        | Description                          |
+|----------------|--------------------------------------|
+| Reproducibility| Ensures consistent scientific results|
+| Flexibility    | Supports multiple output formats     |
+| Extensibility  | Integrates code, text, and citations |
+
+---
+
+# Media Integration
+
+## Images
+
+![Modern Data Visualization](images/image01.jpg){width=100%}  
+*Figure 1: Roman Empire at Greatest Extent.*
+
+![Analytical Workflow](images/image02.png){width=100%}  
+*Figure 2: Invasion Map.*
+
+## Video
+
+Here is a professional video of the Colosseum embedded below:
+
+<video width="640" height="360" controls>
+  <source src="media/video01.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
+# Diagram
+
+Here is a simple Mermaid diagram to visualize workflow:
+
+```mermaid
+graph TD
+    A[Collect Data] --> B[Preprocess]
+    B --> C[Analyze]
+    C --> D[Visualize]
+    D --> E[Report]
